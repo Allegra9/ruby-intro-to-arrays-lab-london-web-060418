@@ -1,4 +1,4 @@
-new_array = []
+@new_array = []
 
-new_array = ["data1", "data2"]
+@new_array = ["data1", "data2"]
 
