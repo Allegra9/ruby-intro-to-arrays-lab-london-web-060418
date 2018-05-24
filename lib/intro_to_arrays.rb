@@ -1,4 +1,3 @@
-array = Array.new
-
-Array.new(2, true)
-
+def instantiate_new_array
+  @
+end
