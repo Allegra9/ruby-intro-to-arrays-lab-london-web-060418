@@ -1,4 +1,4 @@
 array = Array.new
 
-@new_array = ["data1", "data2"]
+Array.new(2, true)
 
